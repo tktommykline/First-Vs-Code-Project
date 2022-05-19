@@ -1,0 +1,27 @@
+.home{
+    width: 100%;
+    background-image: url(../images/HomeWP.jpg);
+    background-size: cover;
+    background-position: right bottom, left top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.about{
+    width: 100%;
+    background-image: url(../images/AboutWP.jpg);
+    background-size: cover;
+    background-position: right bottom, left top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.welcome{
+    font-size: 70px;
+}
+
+.myself{
+    color: whitesmoke;
+}
