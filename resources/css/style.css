@@ -25,3 +25,28 @@
 .myself{
     color: whitesmoke;
 }
+
+#nav{
+    background-color: rgba(131, 131, 132, 0.6);
+    width: 100%;
+}
+
+#h:hover{
+    background-color: rgb(65, 187, 243);
+    color: whitesmoke;
+}
+
+#ab:hover{
+    background-color: rgb(65, 187, 243);
+}
+
+#htext:hover{
+    background-color: grey;
+    color: whitesmoke;
+}
+
+
+#abtext:hover{
+    background-color: grey;
+    color:whitesmoke;
+}
